@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2i0018/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 書
+  hash: sha256:d48e61f572566a32c300f075b26de1850e603ace2b4368e110d45a118cd922c4
+metadata:
+  title: 陸氏南唐書SB22n346
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 23:44:49.049722'
+  source:
+    repository: kanripo
+    path: KR2i0018/KR2i0018_000.txt
+hash: sha256:d4cd5b59b2b20c6aa16716f623c49b71910731ba562cdbdc940f16e3e557dd68
