@@ -35,7 +35,7 @@ assets:
   - {seq: 15, filename: KR2i0018_015-SBCK.yaml, hash: 'sha256:ae6e229d512493929d6f46cbf9b91d9c66c0cf657a2551331dd4b8f57671a275'}
   - {seq: 16, filename: KR2i0018_016-SBCK.yaml, hash: 'sha256:27be1b1123f76c2d85b44d1f7dd6dc9a5f1389dd04e9d96bf39916c9e2d75682'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2i0018_000-SBCK.markers.yaml, hash: 'sha256:35d07ea48dc0aec45530ed10391ec32f38e9f789f73a791a010366d488d477e9'}
+  - {seq: 0, role: markers, filename: assets/KR2i0018_000-SBCK.markers.yaml, hash: 'sha256:bacbe8fa1fef2b005143e873076c2afe461a78506c940cf8a2624e62c7f040ff'}
   - {seq: 1, role: markers, filename: assets/KR2i0018_001-SBCK.markers.yaml, hash: 'sha256:813f7bfb561f833913adb5c2db09c9b8f18855282285e266a263963f68f76cc7'}
   - {seq: 2, role: markers, filename: assets/KR2i0018_002-SBCK.markers.yaml, hash: 'sha256:badb206b21167f52b88b3d6b3592e23dc858e9abf5bf5c96a44d94c78676dc8d'}
   - {seq: 3, role: markers, filename: assets/KR2i0018_003-SBCK.markers.yaml, hash: 'sha256:70211dd93afc64e26123cca2cc180c2ece0061e2e8867c4b88d349ba593af25c'}
@@ -51,7 +51,7 @@ assets:
   - {seq: 13, role: markers, filename: assets/KR2i0018_013-SBCK.markers.yaml, hash: 'sha256:2d5e36a94b2fe0c9448e7670b0da86ec2928dd5d3786d4da997d74ed9783b6a8'}
   - {seq: 14, role: markers, filename: assets/KR2i0018_014-SBCK.markers.yaml, hash: 'sha256:80537a0e791def12ec74a024472a07c9641db47c043d5f7f4f0983a96d8b0dec'}
   - {seq: 15, role: markers, filename: assets/KR2i0018_015-SBCK.markers.yaml, hash: 'sha256:96ed843c96b69fc10c248e13456dd200b908f27124bf752a9a850535833ca066'}
-  - {seq: 16, role: markers, filename: assets/KR2i0018_016-SBCK.markers.yaml, hash: 'sha256:338171d67131ae327e71e80f09faa8875352319b6f6a45c4ff8be2b4984140c0'}
+  - {seq: 16, role: markers, filename: assets/KR2i0018_016-SBCK.markers.yaml, hash: 'sha256:7a7a4b0d0816b1864af3109b5e300f917b6ccfe3f1e9ce045bc55a2c6e5bdc29'}
 table_of_contents:
 - ref:
     seq: 0
@@ -223,4 +223,4 @@ table_of_contents:
   label: juan 016
   type: section
   level: 1
-hash: sha256:e85f434025594f09a8e6ac6dbb55fb5f2eab651574b11766191976c4d5db360e
+hash: sha256:960fa0a90c8e42c12fcb0e74fd08323dddb127d25ce9be8697e167268ddcbb4b
